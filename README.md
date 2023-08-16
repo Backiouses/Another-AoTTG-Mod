@@ -1,5 +1,5 @@
 <!-- 13489731464 -->
-AoTTG Mod <b><a target="_blank" href="[MakingPage]">Graphite</a></b>
+<b><a target="_blank" href="[MakingPage]">Another</a></b> AoTTG Mod
 <!-- 46735561364 -->
 ## Launcher or any additional game files?
   ```sh
